@@ -1,0 +1,13 @@
+$icon-font-path: "../fonts/";
+
+@import "bootstrap-sass-official/assets/stylesheets/bootstrap";
+
+#currentLocation {
+
+}
+
+#routesMap {
+    width: 100%;
+    min-height: 600px;
+    height: 100%;
+}
